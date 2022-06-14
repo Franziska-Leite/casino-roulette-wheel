@@ -5,3 +5,4 @@ The script generates a random number in this range (0 - 49), simulating the roul
 then the player has won fifty times their bet.
 If not, the player loses their bet and can try again in the next round.  
 If the user is running out of money, the script stops and displays that they have lost.
+#my first Python script
